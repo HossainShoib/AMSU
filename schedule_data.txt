@@ -1,0 +1,3 @@
+teacherUsername1,courseId1,Monday 10:00 AM - 12:00 PM
+teacherUsername1,courseId2,Wednesday 02:00 PM - 04:00 PM
+teacherUsername2,courseId3,Tuesday 01:00 PM - 03:00 PM

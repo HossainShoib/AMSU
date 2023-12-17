@@ -1,0 +1,3 @@
+Teacher1 35 Mathematics
+Teacher2 40 Science
+Shoib 40 math

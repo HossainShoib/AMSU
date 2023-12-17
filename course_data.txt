@@ -1,0 +1,5 @@
+CSE101,Introduction to Computer Science
+MATH202,Calculus II
+PHY301,Modern Physics
+CHEM201,Organic Chemistry
+ENG102,English Composition II
